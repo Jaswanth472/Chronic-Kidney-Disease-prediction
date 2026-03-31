@@ -74,7 +74,7 @@ Format: .csv
 
 Total features: 24 medical attributes + 1 target label
 🙋‍♂️ Author
-Sriram Y
-📂 GitHub: Sriram1908
-📬 Email:  yvenkatasriramreddy@gmail.com
+Jaswanth Reddy P
+📂 GitHub: Jaswanth472
+📬 Email:  venkatajaswanthreddy000@gmail.com
 
